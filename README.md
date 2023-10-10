@@ -1,2 +1,3 @@
-# Internship-with-Bharat-Intern
-Internship duration from 10th October to 10th December
+# stock prediction:
+
+Take stock price of any company you want and predicts eats rice by using LSTM
